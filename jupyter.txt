@@ -1,2 +1,0 @@
-This one is created from jupyter notebook
-And use git push to push it to github
